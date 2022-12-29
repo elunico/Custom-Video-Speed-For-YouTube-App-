@@ -8,4 +8,4 @@ The actual extension code can be found [here](https://github.com/elunico/custom-
 a tool from Apple to convert a WebExtensions extension to an App Extension and the code used to do this was the Firefox code for the original 
 Custom Video Speed for YouTube extension. 
 
-You can find the Mac App [on the App Store](https://apps.apple.com/us/app/custom-video-speed-for-youtube/id6443640011)
+You can find the Apps [on the App Store](https://apps.apple.com/us/app/custom-video-speed-for-youtube/id6443640011)
